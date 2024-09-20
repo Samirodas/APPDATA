@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Meu Aplicativo</string>
+    <string name="submit_button">Enviar</string>
+</resources>
